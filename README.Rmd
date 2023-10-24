@@ -16,18 +16,17 @@ knitr::opts_chunk$set(
 ```
 
 # My_doc
-## paper 
+
+## paper
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
-Write a nice description of your project here.
-Imagine someone is looking at the project trying to figure out what its about, 
-and what files to look for what.
+Write a nice description of your project here. Imagine someone is looking at the project trying to figure out what its about, and what files to look for what.
 
-Content:
-- `data`: necessary data for the project. Do not write to it, only read from it. Don't commit to git history.  
-- `R`: contains R custom functions you make and maybe use several places.  
-- `docs`: documents, like Rmarkdown.  
-- `scripts`: analysis scripts and pipelines. Reads from data, sources R and runs analyses. Writes outputs to `results` or `figures`.  
-- `results`: code output and results.  
+Content: - `data`: necessary data for the project. Do not write to it, only read from it. Don't commit to git history.\
+- `R`: contains R custom functions you make and maybe use several places.\
+- `docs`: documents, like Rmarkdown.\
+- `scripts`: analysis scripts and pipelines. Reads from data, sources R and runs analyses. Writes outputs to `results` or `figures`.\
+- `results`: code output and results.

@@ -21,7 +21,3 @@ docs/*.docx
 # ignore R stuff
 .Rhistory
 .Rproj.user/
-
-# ignore mac hidden file
-**.DS_Store
-
